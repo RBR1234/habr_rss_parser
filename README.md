@@ -4,13 +4,12 @@
 
 ## Возможности
 - Получение заголовка, ссылки и даты публикации каждой статьи.
-- Сохранение в CSV с кодировкой UTF-8-SIG (BOM) — Excel открывает без проблем.
+- Сохранение в CSV с кодировкой UTF-8-SIG (BOM) - Excel открывает без проблем.
 - Простая структура, легко расширить под другие RSS-ленты.
 
 ## Требования
-- Python 3.x
-- Библиотеки: requests, beautifulsoup4, lxml
+ Python 3.x
+ Библиотеки: requests, beautifulsoup4, lxml
 
 Установка зависимостей:
-`bash
 pip install requests beautifulsoup4 lxml
